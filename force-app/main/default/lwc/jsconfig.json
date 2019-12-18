@@ -1,7 +1,11 @@
 {
     "compilerOptions": {
         "baseUrl": ".",
-        "paths": {},
+        "paths": {
+            "c/lWCDEMO": [
+                "lWCDEMO/lWCDEMO.js"
+            ]
+        },
         "experimentalDecorators": true
     },
     "include": [
